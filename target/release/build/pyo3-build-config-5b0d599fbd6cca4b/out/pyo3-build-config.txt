@@ -1,0 +1,11 @@
+implementation=CPython
+version=3.13
+shared=true
+abi3=false
+lib_name=python3.13
+lib_dir=/Users/liming/.local/share/uv/python/cpython-3.13.11-macos-aarch64-none/lib
+executable=/Users/liming/.cache/uv/builds-v0/.tmp0hwmh9/bin/python
+pointer_width=64
+build_flags=
+python_framework_prefix=
+suppress_build_script_link_lines=false

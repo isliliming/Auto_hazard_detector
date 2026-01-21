@@ -1,0 +1,14 @@
+/Users/liming/Documents/GitHub/Auto_hazard_detector/target/release/deps/pyo3_build_config-9cc35a7f8e409013.d: /Users/liming/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.27.2/src/lib.rs /Users/liming/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.27.2/src/errors.rs /Users/liming/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.27.2/src/impl_.rs /Users/liming/Documents/GitHub/Auto_hazard_detector/target/release/build/pyo3-build-config-5b0d599fbd6cca4b/out/pyo3-build-config-file.txt /Users/liming/Documents/GitHub/Auto_hazard_detector/target/release/build/pyo3-build-config-5b0d599fbd6cca4b/out/pyo3-build-config.txt
+
+/Users/liming/Documents/GitHub/Auto_hazard_detector/target/release/deps/libpyo3_build_config-9cc35a7f8e409013.rlib: /Users/liming/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.27.2/src/lib.rs /Users/liming/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.27.2/src/errors.rs /Users/liming/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.27.2/src/impl_.rs /Users/liming/Documents/GitHub/Auto_hazard_detector/target/release/build/pyo3-build-config-5b0d599fbd6cca4b/out/pyo3-build-config-file.txt /Users/liming/Documents/GitHub/Auto_hazard_detector/target/release/build/pyo3-build-config-5b0d599fbd6cca4b/out/pyo3-build-config.txt
+
+/Users/liming/Documents/GitHub/Auto_hazard_detector/target/release/deps/libpyo3_build_config-9cc35a7f8e409013.rmeta: /Users/liming/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.27.2/src/lib.rs /Users/liming/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.27.2/src/errors.rs /Users/liming/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.27.2/src/impl_.rs /Users/liming/Documents/GitHub/Auto_hazard_detector/target/release/build/pyo3-build-config-5b0d599fbd6cca4b/out/pyo3-build-config-file.txt /Users/liming/Documents/GitHub/Auto_hazard_detector/target/release/build/pyo3-build-config-5b0d599fbd6cca4b/out/pyo3-build-config.txt
+
+/Users/liming/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.27.2/src/lib.rs:
+/Users/liming/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.27.2/src/errors.rs:
+/Users/liming/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.27.2/src/impl_.rs:
+/Users/liming/Documents/GitHub/Auto_hazard_detector/target/release/build/pyo3-build-config-5b0d599fbd6cca4b/out/pyo3-build-config-file.txt:
+/Users/liming/Documents/GitHub/Auto_hazard_detector/target/release/build/pyo3-build-config-5b0d599fbd6cca4b/out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.27.2
+# env-dep:OUT_DIR=/Users/liming/Documents/GitHub/Auto_hazard_detector/target/release/build/pyo3-build-config-5b0d599fbd6cca4b/out
