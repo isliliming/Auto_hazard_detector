@@ -1,10 +1,10 @@
 implementation=CPython
-version=3.13
+version=3.11
 shared=true
 abi3=false
-lib_name=python3.13
-lib_dir=/Users/liming/.local/share/uv/python/cpython-3.13.11-macos-aarch64-none/lib
-executable=/Users/liming/Documents/GitHub/Auto_hazard_detector/.venv/bin/python
+lib_name=python3.11
+lib_dir=/opt/anaconda3/lib
+executable=/opt/anaconda3/bin/python
 pointer_width=64
 build_flags=
 python_framework_prefix=
